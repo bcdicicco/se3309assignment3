@@ -1,3 +1,3 @@
 http://www.mockaroo.com/ was used to generate data for our tables. We put the table column names and the data types and
 it automatically generated data for us. We selected the number of tuples to create, picked .sql, and used the insert statements it
-gave in our workbench.
+gave in our workbench. The inserted data used is in the data folder.
